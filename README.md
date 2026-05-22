@@ -17,16 +17,19 @@ An AI-powered robot vision and behavior engine built with YOLOv11, FastAPI, and 
 | Communication | REST API |
 
 ## Project Structure
+
+```
 robot-vision-system/
 ├── backend/
-│   ├── main.py        # FastAPI server
-│   ├── detector.py    # YOLOv11 detection logic
-│   ├── behavior.py    # Behavior decision engine
+│   ├── main.py          # FastAPI server
+│   ├── detector.py      # YOLOv11 detection logic
+│   ├── behavior.py      # Behavior decision engine
 │   └── requirements.txt
 ├── frontend/
 │   └── src/
-│       └── App.jsx    # React UI
+│       └── App.jsx      # React UI
 └── README.md
+```
 
 ## Getting Started
 
