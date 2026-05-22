@@ -2,6 +2,12 @@
 
 An AI-powered robot vision and behavior engine built with YOLOv11, FastAPI, and React.
 
+## Demo 
+
+https://github.com/user-attachments/assets/913fc65c-d4ff-4fb9-8c37-1d7c9e72dbd7
+
+
+
 ## What it does
 - Accepts an image from the user
 - Runs YOLOv11 object detection on the scene
